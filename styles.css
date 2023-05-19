@@ -254,3 +254,16 @@ h1 {
 
 }
 
+.listaGrid{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #2196F3;
+  padding: 10px;
+}
+.productoGrid{
+  display: block;
+}
+.imagenGrid{
+  background-image: url("./polloCarniceria.png");
+}
+
