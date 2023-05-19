@@ -262,8 +262,12 @@ h1 {
 }
 .productoGrid{
   display: block;
+  align-items: center;
+  text-align: center;
 }
 .imagenGrid{
-  background-image: url("./polloCarniceria.png");
+  padding: 100px;
+  background-image: url("./carniceria.jpg");
+  background-size: 100% 100%;
 }
 

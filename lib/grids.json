@@ -1,0 +1,39 @@
+{
+  "data": {
+    "grids": [
+   {
+     "descripcion": "ESPALDA COCIDA FIESTA",
+     "precio": "11.52 Ref",
+     "imagen": "./carniceria.jpg"
+   },
+   {
+    "descripcion": "JAMON COCIDO DE PIERNA EL VALLE",
+    "precio": "9.38 Ref",
+    "imagen": "./carniceria2.jpg"
+  },
+  {
+    "descripcion": "PECHUGA DE PAVO MALLORCA KG",
+    "precio": "6.01 Ref",
+    "imagen": "./carniceria3.jpg"
+  },
+  {
+    "descripcion": "SALAMI COCIDO EL VALLE KG",
+    "precio": "12.30 Ref",
+    "imagen": "./carniceria1.png"
+  },
+  {
+    "descripcion": "PEPPERONI DEL VALLE KG",
+    "precio": "12.23 Ref",
+    "imagen": "./carniceria.jpg"
+  },
+  {
+    "descripcion": "JAMON COCIDO FIESTA KG",
+    "precio": "11.65 Ref",
+    "imagen": "./carniceria.jpg"
+  }
+  
+  
+
+  
+ ]
+ }}

@@ -7,9 +7,9 @@
     <link rel="stylesheet" href="styles.css" />
 
   </head>
-  <body >
+  <body onload="cargarData()">
     
-  <main id=""> 
+  <main id="" > 
     <div class="header" >
       <h1 class="titulos" style="color:white">GALERIA HYPERMARKET</h1>
       <div class="titulos"  style="color:white">Carniceria</div>
@@ -17,8 +17,9 @@
    <section class="listas">
     <div class="listaGrid">
       <div class="productoGrid">
-        <div class="imagenGrid"></div>
-        <div class="precioGrid"></div>
+        <div class="imagenGrid">hola</div>
+        <div class="descripcionGrid"></div>
+        <div class="precioGrid">31</div>
       </div>
 
     </div>
@@ -30,5 +31,75 @@
     
   </main>
 </body>
+<script>
+  var contador=4;
+function reducirTamano(){
+ for (const a of document.querySelectorAll(".linea")) {
+   
+   var text=a.textContent;
+   var length = 18;
+   var trimmedString = text.length > length ? 
+                   text.substring(0, 21) + "..." : 
+                   text;
+    a.textContent = trimmedString;
 
+ }
+}
+
+function cargarData(){
+
+ fetch('./lib/grids.json').then(function(response) {
+   let text="";
+   if(response.ok) {
+     response.json().then(function(response) {
+       
+       let data=response.data.grids.slice(0,6);
+        
+       for (const productos of data) {
+         let text2=" <div class='productoGrid'><div class='imagenGrid' style='background-image: url("+productos.imagen+");'></div><div class='descripcionGrid'>"+productos.descripcion+"</div><div class='precioGrid'>"+productos.precio+"</div></div>"
+         text+=text2;
+       }
+       document.querySelector(".listaGrid").innerHTML=text;
+       
+     });
+   } else {
+     console.log('Respuesta de red OK pero respuesta HTTP no OK');
+   }
+ })
+ .catch(function(error) {
+   console.log('Hubo un problema con la petición Fetch:' + error.message);
+ });
+}
+
+setInterval(function(){
+ let text="";
+ 
+ fetch('./lib/cerdo.json').then(function(response) {
+   if(response.ok) {
+     response.json().then(function(response) {
+      document.querySelector(".listaProductos").innerHTML="";
+       let data=response.data.grids.slice(contador,contador+6);
+        
+       for (const productos of data) {
+         let text2="<div class='producto'><div class='nombreProducto'>"+productos.descripcion+"</div><div class='precioProducto'>"+productos.precio+"</div></div>"
+         text+=text2;
+       }
+       document.querySelector(".listaProductos").innerHTML=text;
+       if(contador>=response.data.grids.length-5){
+         contador=0;
+         }else{
+         contador=contador+4;
+         }
+     });
+   } else {
+     console.log('Respuesta de red OK pero respuesta HTTP no OK');
+   }
+ })
+ .catch(function(error) {
+   console.log('Hubo un problema con la petición Fetch:' + error.message);
+ });
+}
+ , 60000);
+
+   </script>
 </html>
