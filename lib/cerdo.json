@@ -3,7 +3,8 @@
     "cerdo": [
    {
      "descripcion": "CHULETA DE CERDO FRESCA KG",
-     "precio": "7.90 Ref"
+     "precio": "7.90 Ref",
+     "imagen": "/cachito.png",
    },
    {
     "descripcion": "CHULETA AHUMADA KG",
