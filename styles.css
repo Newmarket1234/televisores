@@ -273,8 +273,15 @@ h1 {
   padding: 100px;
   background-repeat: no-repeat;
   background-size: 100% 100%;
+  border-radius: 50px;
 }
-nombreGrid{
-  font-size: ;
+.descripcionGrid{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: #aaa;
+  border-radius: 40px;
 }
-
+.precioGrid{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: #aaa;
+  border-radius: 40px;
+}
