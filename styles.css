@@ -269,7 +269,7 @@ h1 {
 }
 .imagenGrid{
   padding: 100px;
-  
+  background-repeat: no-repeat;
   background-size: 80% 80%;
 }
 
