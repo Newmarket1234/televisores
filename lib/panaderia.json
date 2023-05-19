@@ -1,0 +1,49 @@
+{
+  "data": {
+    "Panes": [
+   {
+     "descripcion": "PAN CANILLA 3 UND",
+     "precio": "1.10 Ref"
+   },
+   {
+    "descripcion": "PAN SOBADO UND",
+    "precio": "0.48 Ref"
+  },
+  {
+    "descripcion": "PAN CAMPESINO UND",
+    "precio": "0.82 Ref"
+  },
+  {
+    "descripcion": "PAN FRANCES 10 UND",
+    "precio": "1.35 Ref"
+  },
+  {
+    "descripcion": "PAN DE SANDWICH PEQUEÑO",
+    "precio": "1.20 Ref"
+  },
+  {
+    "descripcion": "PAN DE SANDWICH GRANDE",
+    "precio": "1.90 Ref"
+  },
+  {
+    "descripcion": "PAN ARABE GRAN ORIENTE",
+    "precio": "1.43 Ref"
+  },
+  {
+    "descripcion": "CAFE PEQUEÑO",
+    "precio": "0.50 Ref"
+  },
+  {
+    "descripcion": "CAFE GRANDE",
+    "precio": "0.80 Ref"
+  },
+  {
+    "descripcion": "CAFE CON LECHE PEQUEÑO",
+    "precio": "0.80 Ref"
+  },
+  {
+    "descripcion": "CAFE CON LECHE GRANDE",
+    "precio": "1.30 Ref"
+  }
+ ]
+ }}

@@ -1,0 +1,45 @@
+{
+  "data": {
+    "Menu": [
+   {
+     "descripcion": "COMIDA POR KG",
+     "precio": "10.43 Ref"
+   },
+   {
+    "descripcion": "SOPA DE RES",
+    "precio": "2.51 Ref"
+   },
+   {
+    "descripcion": "SOPA DE POLLO",
+    "precio": "2.51 Ref"
+   },
+   {
+    "descripcion": "EMPANADA UND",
+    "precio": "1.25 Ref"
+  },
+  {
+    "descripcion": "PAPA RELLENA",
+    "precio": "1.40 Ref"
+  },
+  {
+    "descripcion": "JUGO DE PIÑA",
+    "precio": "1.01 Ref"
+  },
+  {
+    "descripcion": "TIZANA",
+    "precio": "1.88 Ref"
+  },
+  {
+    "descripcion": "SANDWICH ITALIANO",
+    "precio": "3.00 Ref"
+  },
+  {
+    "descripcion": "SANDWICH JAMON Y QUESO",
+    "precio": "4.00 Ref"
+  },
+  {
+    "descripcion": "AREPA CON POLLO",
+    "precio": "3.50 Ref"
+  }
+ ]
+ }}

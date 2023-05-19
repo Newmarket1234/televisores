@@ -1,0 +1,48 @@
+{
+  "data": {
+    "pasteles": [
+   {
+     "descripcion": "CACHITO DE JAMON",
+     "precio": "1.30 Ref"
+   },
+   {
+    "descripcion": "CACHITO DE JAMON Y QUESO",
+    "precio": "1.30 Ref"
+  },
+  {
+    "descripcion": "PAN DE QUESO",
+    "precio": "1.40 Ref"
+  },
+  {
+    "descripcion": "PAN DE QUESO CON TOCINETA",
+    "precio": "1.84 Ref"
+  },
+  {
+    "descripcion": "HOJALDRE DE POLLO UND",
+    "precio": "1.95 Ref"
+  },
+  {
+    "descripcion": "HOJALDRE DE JAMON",
+    "precio": "2.25 Ref"
+  },
+  
+  {
+    "descripcion": "HOJALDRE DE JAMON C/QUESO CREMA",
+    "precio": "3.10 Ref"
+  },
+  {
+    "descripcion": "HOJALDRE DE CARNE",
+    "precio": "1.80 Ref"
+  },
+  {
+    "descripcion": "HOJALDRE DE QUESO",
+    "precio": "1.95 Ref"
+  }
+  ,
+  {
+    "descripcion": "CROISSANT 1 UND",
+    "precio": "2.60 Ref"
+  }
+  
+ ]
+ }}

@@ -1,0 +1,49 @@
+{
+  "data": {
+    "cerdo": [
+   {
+     "descripcion": "CHULETA DE CERDO FRESCA KG",
+     "precio": "7.90 Ref"
+   },
+   {
+    "descripcion": "CHULETA AHUMADA KG",
+    "precio": "7.14 Ref"
+   },
+   {
+    "descripcion": "PALETA DE CERDO KG",
+    "precio": "5.90 Ref"
+   },
+   {
+    "descripcion": "PERNIL CON HUESO KG",
+    "precio": "6.84 Ref"
+  },
+  {
+    "descripcion": "COSTILLA DE CERDO KG",
+    "precio": "8.03 Ref"
+  },
+  {
+    "descripcion": "PATICAS DE CERDO KG",
+    "precio": "2.54 Ref"
+  },
+  {
+    "descripcion": "HUESO AHUMADO KG",
+    "precio": "3.77 Ref"
+  },
+  {
+    "descripcion": "HUESO DE CERDO KG",
+    "precio": "2.41 Ref"
+  },
+  {
+    "descripcion": "RABO DE CERDO KG",
+    "precio": "2.45 Ref"
+  },
+  {
+    "descripcion": "AZADURA KG",
+    "precio": "1.16 Ref"
+  },
+  {
+    "descripcion": "COSTILLA CHINA KG",
+    "precio": "5.00 Ref"
+  }
+ ]
+ }}

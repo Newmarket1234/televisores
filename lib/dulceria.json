@@ -1,0 +1,43 @@
+{
+  "data": {
+    "dulces": [
+   {
+     "descripcion": "PAN FRUTAS CONFITADAS UND",
+     "precio": "1.00 Ref"
+   },
+   {
+    "descripcion": "PAN DULCE DE CREMA PASTELERA",
+    "precio": "0.85 Ref"
+  },
+  {
+    "descripcion": "TORTA POR KG",
+    "precio": "11.00 Ref"
+  },
+  {
+    "descripcion": "PASTA SECA KG",
+    "precio": "7.50 Ref"
+  },
+  {
+    "descripcion": "BOMBA RELLENA UND",
+    "precio": "1.00 Ref"
+  },
+  {
+    "descripcion": "DONAS DE CHOCOLATE 1 UND",
+    "precio": "0.70 Ref"
+  },
+  
+  {
+    "descripcion": "FRESAS CON CREMA 1 UND",
+    "precio": "3.99 Ref"
+  },
+  {
+    "descripcion": "PAN DE COCO 1 UND",
+    "precio": "0.60 Ref"
+  },
+  {
+    "descripcion": "PAN DE GUAYABA",
+    "precio": "1.00 Ref"
+  }
+  
+ ]
+ }}

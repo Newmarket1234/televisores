@@ -1,0 +1,52 @@
+{
+  "data": {
+    "embutidos": [
+   {
+     "descripcion": "ESPALDA COCIDA FIESTA",
+     "precio": "11.52 Ref"
+   },
+   {
+    "descripcion": "JAMON COCIDO DE PIERNA EL VALLE",
+    "precio": "9.38 Ref"
+  },
+  {
+    "descripcion": "PECHUGA DE PAVO MALLORCA KG",
+    "precio": "6.01 Ref"
+  },
+  {
+    "descripcion": "SALAMI COCIDO EL VALLE KG",
+    "precio": "12.30 Ref"
+  },
+  {
+    "descripcion": "PEPPERONI DEL VALLE KG",
+    "precio": "12.23 Ref"
+  },
+  {
+    "descripcion": "JAMON COCIDO FIESTA KG",
+    "precio": "11.65 Ref"
+  },
+  
+  {
+    "descripcion": "JAMON COCIDO SUPERIOR HERMO KG",
+    "precio": "12.89 Ref"
+  },
+  {
+    "descripcion": "JAMON DE PAVO IBERICO KG",
+    "precio": "10.11 Ref"
+  },
+  {
+    "descripcion": "MORTADELA DE CARNE HERMO 1KG",
+    "precio": "3.39 Ref"
+  },
+  {
+    "descripcion": "CHORIZO TIPO SECO ESPAÑOL CHARVENCA KG",
+    "precio": "32.96 Ref"
+  },
+  {
+    "descripcion": "PECHUGA PAVO FONTANA KG",
+    "precio": "8.06 Ref"
+  }
+
+  
+ ]
+ }}
